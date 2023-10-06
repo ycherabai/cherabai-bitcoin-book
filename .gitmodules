@@ -1,0 +1,3 @@
+[submodule "bitcoinbook"]
+	path = bitcoinbook
+	url = git@github.com:bitcoinbook/bitcoinbook.git
